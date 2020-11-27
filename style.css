@@ -1,0 +1,9 @@
+a:hover{
+  color: grey;
+  text-decoration: none;
+}
+.card-back{
+  margin: 0;
+  padding: 4px;
+  background-color: rgba(242, 244, 245, 0.4)
+}
